@@ -13,7 +13,7 @@ The following valiables contain the data from downloaded files.
 
 The following valiables are created on the way to analize.
 * X_test_train  : **to merge the training and the test sets**  
-* X_mean_std    * **to extract only the measurements on the mean and standartd deviation**  
+* X_mean_std    : **to extract only the measurements on the mean and standartd deviation**  
 
  
 The following valiable contains the data created by step 1 to 4.  
